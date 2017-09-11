@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34330" started-at="2017-09-02T04:58:36Z" finished-at="2017-09-02T04:59:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34330" started-at="2017-09-02T04:58:36Z" finished-at="2017-09-02T04:59:10Z">
+      <class name="autoIT.FileDownload">
+        <test-method status="PASS" signature="start()[pri:0, instance:autoIT.FileDownload@c0edeb]" name="start" is-config="true" duration-ms="16907" started-at="2017-09-02T10:28:36Z" finished-at="2017-09-02T10:28:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="fileDownload()[pri:0, instance:autoIT.FileDownload@c0edeb]" name="fileDownload" duration-ms="17238" started-at="2017-09-02T10:28:53Z" finished-at="2017-09-02T10:29:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fileDownload -->
+        <test-method status="PASS" signature="end()[pri:0, instance:autoIT.FileDownload@c0edeb]" name="end" is-config="true" duration-ms="111" started-at="2017-09-02T10:29:10Z" finished-at="2017-09-02T10:29:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- autoIT.FileDownload -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

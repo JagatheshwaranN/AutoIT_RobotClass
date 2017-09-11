@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [AutoITSuite]">
+  <test name="FileUpload(failed)">
+    <classes>
+      <class name="autoIT.FileUpload">
+        <methods>
+          <include name="customerLoginPositive"/>
+          <include name="end"/>
+          <include name="start"/>
+        </methods>
+      </class> <!-- autoIT.FileUpload -->
+    </classes>
+  </test> <!-- FileUpload(failed) -->
+</suite> <!-- Failed suite [AutoITSuite] -->
