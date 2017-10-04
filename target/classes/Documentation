@@ -1,0 +1,55 @@
+AutoIT and Robot Class
++++++++++++++++++++++++
+
+Robot Class 
++++++++++++
+1.It is predefined class of JAVA.
+2.It is used to perform the Keyboard and Mouse related actions.
+3.It is used with Selenium to automate the Web Application.
+  For Example - In case of Upload or download of a file in Web Application is not possible with Selenium.
+                So Robot class is used with Selenium to perform the operations.
+                
+4.Robot class is used to perform both Keyboard and Mouse actions.But in this both Keyboard actions is works fine with Robot class 
+  than the Mouse actions.
+5.Mouse actions will not work as expected in many cases.
+
+
+AutoIT
+++++++
+1.It is an third party integration used with Selenium to perform web application testing.
+2.AutoIT is used to perform the window based actions like upload and downlod of file.
+3.AutoIT is used with Selenium to perform the upload/download of file which is not done by Selenium.
+4.The AutoIT is a tool which is used to find the window elements.
+5.The AutoIT is used to find the window elements and a script is developed like a VB Script.
+6.Then Script is compiled and .exe file is created.
+7.You have to use the .exe file with the Selenium script.
+
+
+How to use AutoIT with Selenium
+++++++++++++++++++++++++++++++++
+Here we need three tools,
+
+1.Selenium Webdriver
+2.AutoIT editor and element identifier
+3.The window that you want to automate
+
+How to download and install AutoIT
+++++++++++++++++++++++++++++++++++
+1.Download the AutoIT with this link - https://www.autoitscript.com/site/autoit/downloads/
+2.Download the AutoIT Editor with this link - https://www.autoitscript.com/site/autoit-script-editor/downloads/
+3.Install both the AutoIT and AutoIT Editor.
+4.Open up AutoIT Editor - C:\Program Files (x86)\AutoIt3\SciTE\SciTE.exe.
+5.Open up Element Identifier - C:\Program Files (x86)\AutoIt3\Au3Info.exe.
+6.By using Element Identifier you can identify the window elements.
+7.By using AutoIT Editor you can write script.
+
+
+
+
+
+
+  
+                 
+  
+
+
