@@ -27,10 +27,10 @@ public class FileDownload {
 		}
 
 		/**
-		 * The method name is : fileUpload 
+		 * The method name is : fileDownload 
 		 * This method is annotated with Test.
 		 * It will act as a test method.This method will launch browser.
-		 * Navigate to the URL and enter the inputs and upload file.
+		 * Navigate to the URL and enter the inputs and download the file.
 		 * 
 		 * @throws IOException
 		 * @throws InterruptedException
